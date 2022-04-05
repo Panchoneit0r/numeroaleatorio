@@ -16,8 +16,8 @@
   background-color: black;
   background-image: url(Game/sasuke.jpg) ;
   background-repeat: repeat-x;
-  background-size: 220px;
-  background-position: center; 
+  background-size: 200px;
+  background-position: center;
 }
 .App-header {
   background-color: darkblue;

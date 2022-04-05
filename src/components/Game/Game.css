@@ -9,6 +9,7 @@
 }
 body {background-color: black;}
 .Game input {
+
     background-color: crimson;
     border-radius: 8px;
     color: white;
@@ -18,6 +19,7 @@ body {background-color: black;}
     font-size: 85px;
     font-weight: bold;
 }
+
 
 .Game button {
     background-color: crimson;
